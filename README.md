@@ -5,4 +5,4 @@ CONNECTIFY APP for all people to communicate with each other, and there are some
 ## Let's watch this video that demonstrates the workflow of the APP!
 [Watch Video!](https://drive.google.com/file/d/1roCb50m5kpO1e3xYxLU7kH96PQC63V8K/view?usp=drivesdk)
 ## The Link of Project in Figma
-[Click Here!](https://www.figma.com/file/C81PZRFo4emhqpiCcDaARO/Social-Media-Chat-App?type=design&node-id=0%3A1&mode=design&t=nDzDlWnvF9Adru5R-1)
+[Click Here!](https://www.figma.com/file/C81PZRFo4emhqpiCcDaARO/Social-Media-Chat-App?type=design&node-id=7%3A23&mode=design&t=sOq6GsGZCLD2JNHA-1)
